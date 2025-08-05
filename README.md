@@ -1,15 +1,17 @@
 ---
-
+COVID19-Exploratory Data Analysis and Machine Learning
+AND
 Titanic Dataset - Exploratory Data Analysis and Machine Learning
 
-This project performs comprehensive Exploratory Data Analysis (EDA), Data Preprocessing, and Machine Learning Modeling on the iconic Titanic dataset. The dataset captures the fate of passengers aboard the RMS Titanic, one of the most infamous shipwrecks in history.
+This project performs comprehensive Exploratory Data Analysis (EDA), Data Preprocessing, and Machine Learning Modeling on the iconic Titanic dataset. The dataset captures the fate of passengers aboard the RMS Titanic, one of the most infamous shipwrecks in history and also file for covid 19 death recovered ratio
 
 
 ---
 
 📌 Objectives
 
-Understand the structure and characteristics of the Titanic dataset.
+Understand the structure and characteristics of the Titanic dataset also 
+Understand the structure and characteristics of the covid19 dataset 
 
 Use 11+ visualization methods to explore relationships between features and survival.
 
@@ -66,15 +68,14 @@ Distribution of passengers across different ports (Embarked)
 
 Key preprocessing steps:
 
-Handling Missing Values: Imputation of missing Age, Embarked, and Cabin data.
+Handling Missing Values: 
 
 Feature Engineering:
 
-Extracted titles (Mr., Miss, etc.) from names
+Extracted titles 
 
-Created FamilySize feature from SibSp + Parch
 
-Binning of continuous variables like Age and Fare
+Binning of continuous variables 
 
 
 Encoding: Categorical features were encoded using LabelEncoding and/or One-Hot Encoding.
@@ -110,8 +111,6 @@ Confusion matrices and classification reports may have been used to measure perf
 📌 Results
 
 Best performing models: Ensemble methods (Random Forest, Gradient Boosting) showed strong accuracy.
-
-Top predictors of survival: Gender, Passenger Class, Age, and Fare emerged as significant features.
 
 
 
@@ -154,7 +153,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 The dataset is freely available from Kaggle Titanic Competition and includes information like passenger name, age, sex, ticket class, fare, and survival status.
 
-
+covid19 dataset is also from kaggle and include large amount of data of different countries recovered and deaath ratio
 ---
 
 📌 Future Work
@@ -171,5 +170,5 @@ More advanced feature selection techniques (e.g., PCA, Recursive Feature Elimina
 
 🙏 Acknowledgments
 
-Thanks to the open community for the Titanic dataset and resources.
+Thanks to the open community for the Titanic dataset and covid.
 This notebook is created for learning, exploration, and model experimentation.
