@@ -165,10 +165,3 @@ Deployment of the best model via a web app.
 More advanced feature selection techniques (e.g., PCA, Recursive Feature Elimination).
 
 
-
----
-
-🙏 Acknowledgments
-
-Thanks to the open community for the Titanic dataset and covid.
-This notebook is created for learning, exploration, and model experimentation.
