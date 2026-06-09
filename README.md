@@ -129,24 +129,6 @@ missingno (optional)
 plotly (if interactive plots were used)
 
 
-
----
-
-🚀 How to Run
-
-1. Clone the repository or download the .ipynb notebook.
-
-
-2. Install dependencies:
-
-pip install pandas numpy matplotlib seaborn scikit-learn
-
-
-3. Run the notebook in Jupyter or Colab.
-
-
-
-
 ---
 
 📁 Dataset
