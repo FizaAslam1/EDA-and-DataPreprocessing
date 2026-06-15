@@ -8,8 +8,7 @@ This project performs comprehensive Exploratory Data Analysis (EDA), Data Prepro
 
 ---
 
-📌 Objectives
-
+ Objectives
 Understand the structure and characteristics of the Titanic dataset also 
 Understand the structure and characteristics of the covid19 dataset 
 
@@ -21,9 +20,9 @@ Train and evaluate multiple machine learning models to predict survival.
 
 
 
----
 
-📊 Exploratory Data Analysis (EDA)
+
+ Exploratory Data Analysis (EDA)
 
 The EDA includes a variety of plots and visualizations to discover insights into the dataset. The following plot types were used:
 
@@ -50,7 +49,7 @@ Facet Grid Plot
 Pair Plot
 
 
-🔍 Key Explorations:
+ Key Explorations:
 
 Survival rate by gender and class
 
@@ -64,7 +63,7 @@ Distribution of passengers across different ports (Embarked)
 
 ---
 
-🧹 Data Preprocessing
+Data Preprocessing
 
 Key preprocessing steps:
 
