@@ -57,9 +57,6 @@ Age and fare distributions
 
 Correlation heatmap of numeric features
 
-Distribution of passengers across different ports (Embarked)
-
-
 
 ---
 
